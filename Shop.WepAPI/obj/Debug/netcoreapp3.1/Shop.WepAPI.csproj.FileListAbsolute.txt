@@ -1,0 +1,40 @@
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\Shop.WepAPI.exe
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\Shop.WepAPI.deps.json
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\Shop.WepAPI.runtimeconfig.json
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\Shop.WepAPI.runtimeconfig.dev.json
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\Shop.WepAPI.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\Shop.WepAPI.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.csproj.AssemblyReference.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.AssemblyInfoInputs.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.AssemblyInfo.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.csproj.CoreCompileInputs.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\staticwebassets\Shop.WepAPI.StaticWebAssets.Manifest.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\staticwebassets\Shop.WepAPI.StaticWebAssets.xml
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Shop.WepAPI.styles.css
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.RazorTargetAssemblyInfo.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.genruntimeconfig.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\Shop.WepAPI.exe
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\Shop.WepAPI.deps.json
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\Shop.WepAPI.runtimeconfig.json
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\Shop.WepAPI.runtimeconfig.dev.json
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\Shop.WepAPI.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\bin\Debug\netcoreapp3.1\Shop.WepAPI.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.csproj.AssemblyReference.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.AssemblyInfoInputs.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.AssemblyInfo.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.csproj.CoreCompileInputs.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\staticwebassets\Shop.WepAPI.StaticWebAssets.Manifest.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\staticwebassets\Shop.WepAPI.StaticWebAssets.xml
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Shop.WepAPI.styles.css
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.RazorTargetAssemblyInfo.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WepAPI\obj\Debug\netcoreapp3.1\Shop.WepAPI.genruntimeconfig.cache

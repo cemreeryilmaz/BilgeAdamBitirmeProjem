@@ -1,0 +1,18 @@
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Core\bin\Debug\netcoreapp3.1\Shop.Core.deps.json
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Core\bin\Debug\netcoreapp3.1\Shop.Core.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Core\bin\Debug\netcoreapp3.1\Shop.Core.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.AssemblyInfoInputs.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.AssemblyInfo.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.csproj.CoreCompileInputs.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.csproj.AssemblyReference.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.csproj.AssemblyReference.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.AssemblyInfoInputs.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.AssemblyInfo.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.csproj.CoreCompileInputs.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Core\bin\Debug\netcoreapp3.1\Shop.Core.deps.json
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Core\bin\Debug\netcoreapp3.1\Shop.Core.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Core\bin\Debug\netcoreapp3.1\Shop.Core.pdb

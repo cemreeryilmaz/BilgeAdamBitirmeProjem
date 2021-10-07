@@ -1,0 +1,73 @@
+﻿@model OrderListViewModel
+@{
+    ViewBag.Title = "Title";
+    Layout = "_AdminLayout";
+}
+
+<div class="row">
+    <div class="col-12">
+        <a asp-controller="Order" asp-action="Add" class="btn btn-primary">Yeni Sipariş Ekle</a>
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Sipariş Listesi</h3>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <table id="example2" class="table table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th>Ad-Soyad</th>
+                            <th>Ürün Adı</th>
+                            <th>Kategori</th>
+                            <th>Ödeme Yöntemi</th>
+                            <th>Sepet Toplamı</th>
+                            <th>Adress</th>
+                            <th>İl</th>
+                            <th>İlçe</th>
+                            <th>Tarih</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var order in Model.Orders)
+                        {
+                        <tr>
+                            <td>@order.OrderId</td>
+                            <td>@order.ProductId</td>
+                            <td>@order.CategoryId</td>
+                            <td>@order.TicketId</td>
+                            <td>@order.OrderTotal</td>
+                            <td>@order.ShipAddress</td>
+                            <td>@order.ShipCity</td>
+                            <td>@order.ShipRegion</td>
+                            <td>@order.OrderDate</td>
+
+                        </tr>
+                        }
+
+                    </tbody>
+
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+    </div>
+    <!-- /.col -->
+</div>
+<!-- /.row -->
+<!-- Page specific script -->
+@section TabloScript{
+    <script>
+        $(function () {
+            $('#example2').DataTable({
+                "paging": true,
+                "lengthChange": false,
+                "searching": false,
+                "ordering": true,
+                "info": true,
+                "autoWidth": false,
+                "responsive": true,
+            });
+        });
+    </script>
+}

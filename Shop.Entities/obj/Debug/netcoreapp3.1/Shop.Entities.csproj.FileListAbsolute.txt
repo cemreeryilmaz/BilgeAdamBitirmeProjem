@@ -1,0 +1,24 @@
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Entities\bin\Debug\netcoreapp3.1\Shop.Entities.deps.json
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Entities\bin\Debug\netcoreapp3.1\Shop.Entities.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Entities\bin\Debug\netcoreapp3.1\Shop.Entities.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Entities\bin\Debug\netcoreapp3.1\Shop.Core.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Entities\bin\Debug\netcoreapp3.1\Shop.Core.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.csproj.AssemblyReference.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.AssemblyInfoInputs.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.AssemblyInfo.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.csproj.CopyComplete
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Entities\bin\Debug\netcoreapp3.1\Shop.Entities.deps.json
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Entities\bin\Debug\netcoreapp3.1\Shop.Entities.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Entities\bin\Debug\netcoreapp3.1\Shop.Entities.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Entities\bin\Debug\netcoreapp3.1\Shop.Core.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Entities\bin\Debug\netcoreapp3.1\Shop.Core.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.csproj.AssemblyReference.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.AssemblyInfoInputs.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.AssemblyInfo.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.csproj.CopyComplete
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.Entities\obj\Debug\netcoreapp3.1\Shop.Entities.pdb

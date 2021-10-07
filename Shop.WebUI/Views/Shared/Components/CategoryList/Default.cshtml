@@ -1,0 +1,17 @@
+﻿@model CategoryListViewModel
+
+<ul id="nt_menu_id" class="nt_menu in_flex wrap al_center">
+    <a class="lh__1 flex al_center pr" href="~/Product/Index">
+        Tüm Ürünler
+    </a>
+
+    @foreach (var category in Model.Categories)
+    {
+        <li class="type_mega menu_wid_cus menu-item has-children menu_has_offsets menu_center pos_center">
+            <a class="lh__1 flex al_center pr" href="~/Product/Index?category=@category.CategoryId">
+                @category.CategoryName
+            </a>
+        </li>
+    }
+
+</ul>

@@ -1,0 +1,197 @@
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.exe
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.deps.json
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.runtimeconfig.json
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.runtimeconfig.dev.json
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.Views.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.Views.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.Business.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.Core.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.DataAccess.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.Entities.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.Business.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.Core.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.DataAccess.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.Entities.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.csproj.AssemblyReference.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.AssemblyInfoInputs.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.AssemblyInfo.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.RazorAssemblyInfo.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.RazorAssemblyInfo.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Shop.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Shop.WebUI.StaticWebAssets.xml
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Shop.WebUI.styles.css
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.TagHelpers.input.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.TagHelpers.output.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.RazorCoreGenerate.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.Views.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.csproj.CopyComplete
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.dll
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.pdb
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.genruntimeconfig.cache
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\CmR\Desktop\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\ProductDetail.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.exe
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.deps.json
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.runtimeconfig.json
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.runtimeconfig.dev.json
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.Views.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.WebUI.Views.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.Business.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.Core.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.DataAccess.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.Entities.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.Business.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.Core.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.DataAccess.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Shop.Entities.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.csproj.AssemblyReference.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.AssemblyInfoInputs.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.AssemblyInfo.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.RazorAssemblyInfo.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.RazorAssemblyInfo.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Shop.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Shop.WebUI.StaticWebAssets.xml
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Shop.WebUI.styles.css
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.TagHelpers.input.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.TagHelpers.output.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.RazorCoreGenerate.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\ProductDetail.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.Views.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.csproj.CopyComplete
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.pdb
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Shop.WebUI.genruntimeconfig.cache
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Add.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PartialViews\_StatusPartial.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\AdminProductIndex.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Update.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\AdminCategoryIndex.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\Add.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\Update.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\User\Add.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\User\Update.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\CmR\Desktop\Acount olmadan ki son hali\Shop\Shop\Shop.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

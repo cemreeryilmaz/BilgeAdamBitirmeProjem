@@ -1,0 +1,54 @@
+﻿@model UserUpdateViewModel
+@{
+    ViewBag.Title = "Title";
+    Layout = "_AdminLayout";
+}
+
+<!-- Main content -->
+<section class="content">
+    <div class="row">
+        <form asp-controller="User" asp-action="Update" method="post" enctype="multipart/form-data">
+            <div class="col-md-12">
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">Kullanıcı Güncelle</h3>
+
+                    </div>
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label asp-for="User.UserName"> Ad</label>
+                            <input type="text" asp-for="User.UserName" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="User.UserSurname">Soyad</label>
+                            <input type="text" asp-for="User.UserSurname" class="form-control">
+
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="User.Email">E-Mail</label>
+                            <input type="email" class="form-control" asp-for="User.Email" placeholder="E-Mail Adres Giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="User.Password">Parola</label>
+                            <input type="password" class="form-control" asp-for="User.Password" placeholder="Parola Giriniz...">
+                        </div>
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+            <input type="hidden" asp-for="User.UserId" />
+            <div class="row">
+                <div class="col-12">
+                    <input type="submit" value="Kullanıcı Ekle" class="btn btn-success btn-block">
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+</section>
+<!-- /.content -->
+@section summernote{
+    <script src="~/admintemplate/plugins/summernote/summernote-bs4.min.js"></script>
+}

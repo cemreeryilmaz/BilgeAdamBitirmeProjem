@@ -1,0 +1,18 @@
+﻿@using Shop.Core.Enums
+@model Shop.Core.Enums.StatusEnum
+
+@switch (Model)
+{
+    case StatusEnum.None:
+        <span class="badge badge-primary">İşlem Yapılmadı</span>
+        break;
+    case StatusEnum.Active:
+        <span class="badge badge-success">Aktif</span>
+        break;
+    case StatusEnum.Deleted:
+        <span class="badge badge-danger">Pasif</span>
+        break;
+    case StatusEnum.Updated:
+        <span class="badge badge-warning">Güncellendi</span>
+        break;
+}
